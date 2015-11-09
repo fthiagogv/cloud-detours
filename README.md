@@ -23,7 +23,7 @@ You can use any method you want to install java. I've installed java8 as describ
 I'm currently using Python3 installed from Ubuntu 14.04 canonical sources.
 
 #### Apache Libcloud
-You can have this through PIP3 or you can also install it through Ubuntu sources. I just installed python3-libcloud .
+You can have this through PIP3 or you can also install it through Ubuntu sources. I just installed [apache-libcloud](https://pypi.python.org/pypi/apache-libcloud/0.18.0).
 
 #### ZeroMQ and Java Bindings
 You can install it from Ubuntu sources (libzmq3 and libzmq3-dev) or download the tarball from [ZMQ download site][7].
